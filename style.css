@@ -7,6 +7,7 @@ body {
 
 .navbar {
     background-color: #ffffff;
+    margin-bottom: 2vh;
 }
 
 .nav-link {
@@ -60,6 +61,16 @@ body {
 h2.text-center{
     background-color: #d3dee8;
     margin-bottom: 4vh;
+}
+
+.custom-link {
+    color: #769bc2;
+    text-decoration: none;
+}
+
+.custom-link:hover {
+    color: #6483a5;
+    text-decoration: underline; 
 }
 
 /* Lábjegyzet */
